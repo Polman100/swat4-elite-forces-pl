@@ -30,11 +30,21 @@ Korzystałem z dotychczasowej czcionki pl, zawartej w spolczeniu, na którym baz
 
 Spolszczenie testowałem póki co tylko w trybie kariery. Do treningu, czy multiplayera nawet nie zaglądałem, więc może brakować w nich więcej tłumaczeń tekstów, albo mogą znaleźć się w nich jakieś błędy.
 
+## Pobieranie
+Instrukcja dla nowych osób na GitHubie:
+1. W prawej części strony znajdź sekcję **Releases**
+2. Wybierz i wejdź w najnowszą wersję
+3. W następnym oknie zobaczysz link do gotowego do pobrania pakietu plików w ZIPie
+4. Pobierz archiwum ZIP
+
 ## Instalacja
 1. Upewnij się, że masz zainstalowaną grę SWAT4 Gold Edition oraz mod Elite Forces 7.2
-2. Skopiuj zawartość repozytorium
-3. Wklej do folderów gry
-4. Zgódź się na podmianę plików
+2. (opcjonalnie): Zrób backup wcześniejszych plików gry
+3. Rozpakuj pobrane archiwum ZIP
+4. Skopiuj jego zawartość do odpowiednich folderów gry
+5. Zgódź się na podmianę istniejących plików
+
+Miłej zabawy!
 
 ## Struktura
 Foldery odzwierciedlają strukturę gry wraz modem.
