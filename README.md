@@ -6,13 +6,13 @@
 ## Opis
 Jest to moje amatorskie spolszczenie do gry SWAT4 Gold Edition z modem Elite Forces 7.2.
 Nie jest ono dokończone, więc niektóre teksty w grze będą nadal wyświetlać się po angielsku. Jednak wszystkie kluczowe informacje takie jak
->>komendy w trakcie misji
->>treści odprawy
+- komendy w trakcie misji
+- treści odprawy
 są spolszczone. Dzięki czemu powinno się znacznie przyjemniej grać.
 
 ## Wersja gry
--GOG: SWAT4 Gold Edition
--GOG: Elite Forces 7.2 Mod (zainstalowany bezpośrednio z aplikacji GOG)
+- GOG: SWAT4 Gold Edition
+- GOG: Elite Forces 7.2 Mod (zainstalowany bezpośrednio z aplikacji GOG)
 Na innych wersjach też powinno działać tylko musicie sami ustalić gdzie wkleić pliki bo nie testowałem innych wersji.
 Ewentualne nowsze wersje moda Elite Forces również nie powinny stanowić problemu dla spolszczenia dopóki pliki nie będą się znacznie różnić.
 
@@ -21,9 +21,9 @@ Tłumaczenie bazuje w większości na istniejącym już wcześniej spolszczeniu 
 Nowa zawartość obejmuje w szczególności nowe komendy dla zespołu SWAT, dodane w modzie Elite Forces. W tej kwestii starałem się szczególnie oddać ducha dotychczasowego spolszczenia.
 
 ## Potencjalne problemy
--Czcionka
+- Czcionka
 Korzystałem z dotychczasowej czcionki pl, zawartej w spolczeniu, na którym bazowałem. Niestety dla Elite Forces 7.2 nie jest ona idealnie dopasowana i np. w menu gry, czy w niektórych elementach następuje przesunięcie niektórych liter. Nie jest to jednak nagminne i nie powinno Wam psuć rozgrywki. A ja nie znam sie na edytowaniu plików czcionek, kodem równiej na szybko nie byłem w stanie tego poprawić więc póki co jest jak jest :P
--Tryby inne niż kariera
+- Tryby inne niż kariera
 Spolszczenie testowałem póki co tylko w trybie kariery. Do treningu, czy multiplayera nawet nie zaglądałem, więc może brakować w nich więcej tłumaczeń tekstów, albo mogą znaleźć się w nich jakieś błędy.
 
 ## Instalacja
