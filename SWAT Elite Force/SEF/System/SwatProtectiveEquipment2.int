@@ -1,0 +1,13 @@
+[NVGoggles]
+Description=Gogle noktowizyjne wzmacniaja dostepne swiatlo i pozwalaja uzytkownikowi widziec w ciemnosci. Ze wzgledu na brak kolorow i ograniczone pole widzenia utrudniaja rozroznienie wroga od sojusznika.
+FriendlyName=Noktowizor
+GUIImage=Texture'gui_tex2.equip_nightVision'
+
+[EnemygasMaskmobster]
+Description=Jesli mozesz to przeczytac, zglos blad - opis maski gazowej nie powinien byc widoczny!
+FriendlyName=Maska gazowa
+
+[NoBodyArmor]
+Description=Ta opcja pozwala na szybsze poruszanie sie, ale zwieksza podatnosc na obrazenia od ognia przeciwnika. Umozliwia tez szybsze wykonywanie czynnosci, takich jak obezwladnianie i otwieranie zamkow.
+FriendlyName=Brak pancerza
+GUIImage=Texture'gui_tex2.equip_noArmour'

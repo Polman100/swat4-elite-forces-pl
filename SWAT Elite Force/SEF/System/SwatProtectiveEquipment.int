@@ -1,0 +1,49 @@
+[HelmetAndGoggles]
+Description=Helm kevlarowy polaczony z taktycznymi goglami zapewnia doskonala ochrone glowy oraz eliminuje efekty granatów hukowo-blyskowych.
+FriendlyName=Helm taktyczny
+GUIImage=Texture'gui_tex.equip_goggles'
+
+[EnemyProtecHelmet]
+Description=Helm ProArmor ma smukla, dwuwarstwowa konstrukcje, która zapewnia najwyzszy poziom ochrony glowy. Nie oferuje jednak zadnych dodatkowych korzyści.
+FriendlyName=Helm ProArmor
+
+[EnemyKevlarHelmet]
+Description=Jeśli mozesz to przeczytac, zgloś blad — opis helmu kevlarowego nie powinien byc widoczny!
+FriendlyName=Helm kevlarowy
+
+[KevlarHelmet]
+Description=Jeśli mozesz to przeczytac, wystepuje blad. Ten opis helmu kevlarowego nigdy nie powinien byc wyświetlany.
+FriendlyName=Helm kevlarowy
+
+[RiotHelmet]
+Description=Helm do tlumienia zamieszek zapewnia wysoka ochrone przed obrazeniami oraz zmniejsza efekty gazu CS i gazu pieprzowego (o okolo polowe), ograniczajac kontakt z twarza. Nie chroni jednak przed granatami hukowo-blyskowymi.
+FriendlyName=Helm szturmowy
+
+[helmetGasMask]
+Description=Maska S10 (z helmem kevlarowym) zapewnia wysoka ochrone przed obrazeniami oraz chroni przed gazem CS i gazem pieprzowym. Jest jednak bardzo masywna i ogranicza pole widzenia operatora.
+FriendlyName=Helm S10
+
+[gasMask]
+Description=Maska przeciwgazowa zapewnia uzytkownikowi odpornośc na gaz CS i gaz pieprzowy. Niestety nie oferuje zadnej ochrony balistycznej.
+FriendlyName=Maska przeciwgazowa
+GUIImage=Texture'gui_tex.equip_gasmask'
+
+[HeavyBodyArmor]
+Description=Ten pancerz z plytami ceramicznymi zapewnia ochrone balistyczna poziomu III. Nawet przy trafieniu pociskami FMJ oferuje wyjatkowa ochrone przed pistoletami, pistoletami maszynowymi, karabinami kalibru 7.62 oraz przeciwpancerna amunicja do strzelb. Plyty ceramiczne sa jednak w stanie niezawodnie zatrzymac tylko jedno trafienie — pózniej zaczynaja pekac, co zmniejsza skutecznośc ochrony. Grubośc i masa kamizelki zmniejszaja o polowe efekty granatów obezwladniajacych oraz strzelby z amunicja obezwladniajaca, ale ograniczaja mobilnośc funkcjonariusza i spowalniaja jego dzialania.
+FriendlyName=Pancerz ceramiczny
+GUIImage=Texture'gui_tex.equip_heavyarmor'
+
+[LightBodyArmor]
+Description=To podstawowy, powszechnie uzywany pancerz kevlarowy poziomu II stosowany podczas standardowych operacji. Lekki pancerz chroni przed pociskami ekspansywnymi z pistoletów, mniejszym śrutem oraz malokalibrowa amunicja pelnoplaszczowa, ale ma ograniczona skutecznośc przeciwko amunicji karabinowej, wiekszemu śrutowi z dlugich luf oraz pociskom do strzelb.
+FriendlyName=Pancerz kevlarowy
+GUIImage=Texture'gui_tex.equip_lightarmor'
+
+[EnhancedBodyArmor]
+Description=Ten pancerz wyposazony jest w plyty ceramiczne o poziomie ochrony IV przed penetracja balistyczna. Nawet przy trafieniu amunicja przeciwpancerna zapewnia wyjatkowa ochrone przed pistoletami, pistoletami maszynowymi, karabinami oraz przeciwpancerna amunicja do strzelb. Plyty ceramiczne sa jednak w stanie niezawodnie zatrzymac tylko jedno trafienie — pózniej zaczynaja pekac, co zmniejsza skutecznośc ochrony. Grubośc i masa kamizelki zmniejszaja o polowe efekty granatów obezwladniajacych oraz strzelby z amunicja obezwladniajaca, ale ograniczaja mobilnośc funkcjonariusza i spowalniaja jego dzialania.
+FriendlyName=Ciezki pancerz ceramiczny
+GUIImage=Texture'gui_tex.equip_heavyarmor'
+
+[MediumBodyArmor]
+Description=To bardziej wytrzymaly pancerz kevlarowy poziomu IIIA uzywany podczas operacji wysokiego ryzyka. Zapewnia lepsza ochrone niz standardowy lekki pancerz, w tym przed pociskami ekspansywnymi, wiekszościa śrutu, pociskami do strzelb oraz malokalibrowa amunicja pelnoplaszczowa. Nie zatrzymuje jednak amunicji karabinowej ani przeciwpancernej amunicji pistoletowej.
+FriendlyName=Ciezki pancerz kevlarowy
+GUIImage=Texture'gui_tex.equip_lightarmor'

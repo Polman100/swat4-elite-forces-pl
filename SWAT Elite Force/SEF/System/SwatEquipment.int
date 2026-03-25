@@ -1,0 +1,964 @@
+﻿[NoWeapon]
+Description=Nie pakuj zadnego ekwipunku w ten slot. To zmniejszy twoja wage i gabaryty.
+FriendlyName=No Weapon
+ShortName=No Weapon
+
+[NoAmmo]
+Description=Ta bron nie uzywa amunicji.
+FriendlyName=No Ammo
+
+[NoEquipment]
+Description=Wybierz te opcje, aby nie pakowac ekwipunku w ten slot. Ta opcja jest dobra, gdy musisz zmniejszyc swoja wage i/lub gabaryty.
+FriendlyName=None
+
+[Arwen37GL]
+Description=ARWEN 37 (ARWEN jako skrot od "Anti-Riot Weapon ENfield") zostal zaprojektowany na zamowienie brytyjskiej armii jako skuteczna bron do kontroli zamieszek. Z pewnoscia spelnia te kryteria – dzieki bebnowemu magazynkowi na piec pociskow i taktycznej latarce ARWEN 37 jest solidnym wyborem do przenoszenia ladunkow. Bron jest jednak ciezsza od HK69 i zostala zaprojektowana z mysla o roli grenadiera.
+FriendlyName=ARWEN 37
+ShortName=ARWEN 37
+Manufacturer=Royal Small Arms Factory
+Caliber=37mm
+CountryOfOrigin=Great Britain
+ProductionStart=1977
+FireModes=Semi-Automatic
+MagazineSizeString=5
+TotalAmmoString=25 shells
+RateOfFire=Unknown
+
+[XDMHG]
+Description=Produkowany przez chorwacki HS Produkt i licencjonowany do uzytku w Stanach Zjednoczonych przez Springfield Armory, XDM (skrot od X-treme Duty, Match Grade barrel) ma nowoczesna konstrukcje z elementami z polimeru. Ta bron i jej poprzednik, HS2000, zdobyly tytul Handgun of the Year magazynu American Rifleman oraz The Shooting Academy of Excellence odpowiednio w 2009 i 2006 roku. Ten konkretny model jest komorowany na naboj .45 ACP i posiada imponujacy, pudelkowy magazynek na 13 nabojow.
+FriendlyName=XDM
+ShortName=XDM
+Manufacturer=Springfield Armory
+Caliber=.45
+CountryOfOrigin=Croatia/United States
+ProductionStart=2006
+FireModes=Semi-Automatic
+MagazineSizeString=13
+TotalAmmoString=10 magazines
+RateOfFire=400 RPM
+
+[BrowningHPHG]
+Description=Browning Hi-Power to jeden z najszerzej uzywanych pistoletow w historii; bral udzial m.in. w II wojnie swiatowej, wojnie koreanskiej oraz w ponad kilkunastu innych konfliktach. Prace projektowe nad Browning Hi-Power rozpoczal John Browning w 1914 roku, lecz produkcja ruszyla dopiero w 1935, gdy projekt zostal ukonczony przez FN Herstal. Nazwa nawiazuje do imponujacego magazynka na 13 nabojow, co w tamtym czasie bylo podwojna pojemnoscia w porownaniu ze standardowymi pistoletami. Ten wariant jest komorowany na naboj 9x19mm Parabellum.
+FriendlyName=Browning Hi-Power
+ShortName=Browning Hi-Power
+Manufacturer=Browning
+Caliber=9x19mm
+CountryOfOrigin=United States
+ProductionStart=1935
+FireModes=Semi-Automatic
+MagazineSizeString=13
+TotalAmmoString=10 magazines
+RateOfFire=390 RPM
+
+[SilencedBrowningHPHG]
+Description=Browning Hi-Power to jeden z najszerzej uzywanych pistoletow w historii; bral udzial m.in. w II wojnie swiatowej, wojnie koreanskiej oraz w ponad kilkunastu innych konfliktach. Prace projektowe nad Browning Hi-Power rozpoczal John Browning w 1914 roku, lecz produkcja ruszyla dopiero w 1935, gdy projekt zostal ukonczony przez FN Herstal. Nazwa nawiazuje do imponujacego magazynka na 13 nabojow, co w tamtym czasie bylo podwojna pojemnoscia w porownaniu ze standardowymi pistoletami. Ten wariant jest komorowany na naboj 9x19mm Parabellum i wyposazony w tlumik dzwieku i plomienia do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed Browning Hi-Power
+ShortName=Sup. Browning Hi-Power
+Manufacturer=Browning
+Caliber=Subsonic 9x19mm
+CountryOfOrigin=United States
+ProductionStart=
+FireModes=Semi-Automatic
+MagazineSizeString=13
+TotalAmmoString=10 magazines
+RateOfFire=390 RPM
+
+[P226HG]
+Description=SIG Sauer P226 to wersja P220 o zwiekszonej pojemnosci, korzystajaca z dwurzedowych magazynkow na 20 nabojow zamiast jednorzędowych magazynkow P220. Komorowany na naboj 9x19mm, P226 jest szeroko stosowany w departamentach policji w Stanach Zjednoczonych i Kanadzie.
+FriendlyName=P226
+ShortName=P226
+Manufacturer=SIG Sauer
+Caliber=9x19mm
+CountryOfOrigin=Germany
+ProductionStart=1984
+FireModes=Semi-Automatic
+MagazineSizeString=20
+TotalAmmoString=10 magazines
+RateOfFire=390 RPM
+
+[SilencedP226HG]
+Description=SIG Sauer P226 to wersja P220 o zwiekszonej pojemnosci, korzystajaca z dwurzedowych magazynkow na 20 nabojow zamiast jednorzędowych magazynkow P220. Komorowany na naboj 9x19mm, P226 jest szeroko stosowany w departamentach policji w Stanach Zjednoczonych i Kanadzie. Ten model wyposazono w tlumik dzwieku i plomienia do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed P226
+ShortName=Sup. P226
+Manufacturer=SIG Sauer
+Caliber=Subsonic 9x19mm
+CountryOfOrigin=Germany
+ProductionStart=1984
+FireModes=Semi-Automatic
+MagazineSizeString=20
+TotalAmmoString=10 magazines
+RateOfFire=390 RPM
+
+[HK33MG]
+Description=Podczas gdy pistolet maszynowy MP5 firmy Heckler & Koch jest bardziej popularny wsrod jednostek SWAT, w tym samym czasie firma opracowala trzy inne konstrukcje oparte na bardzo udanym szkielecie karabinu G3 – jedna z nich to HK33. HK33A2 ma sztywna, syntetyczna kolbe i bazuje na oryginalnym projekcie G3, korzystajac z tego samego mechanizmu odrzutu z opoznionym rolkowo otwarciem zamka, ale dostosowanego do mniejszego naboju 5.56x45mm NATO.
+FriendlyName=HK33A2
+ShortName=HK33A2
+Manufacturer=Heckler & Koch
+Caliber=5.56x45mm NATO
+CountryOfOrigin=West Germany
+ProductionStart=1968
+FireModes=Semi-Automatic, 3-rd. Burst, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=700 RPM
+
+[HK33sMG]
+Description=Podczas gdy pistolet maszynowy MP5 firmy Heckler & Koch jest bardziej popularny wsrod jednostek SWAT, w tym samym czasie firma opracowala trzy inne konstrukcje oparte na bardzo udanym szkielecie karabinu G3 – jedna z nich to HK33. HK33A2 ma sztywna, syntetyczna kolbe i bazuje na oryginalnym projekcie G3, korzystajac z tego samego mechanizmu odrzutu z opoznionym rolkowo otwarciem zamka, ale dostosowanego do mniejszego naboju 5.56x45mm NATO. Ten wariant wyposazono w celownik optyczny 4x do celnych strzalow na duzym dystansie.
+FriendlyName=Scoped HK33A2
+ShortName=Scoped HK33A2
+Manufacturer=Heckler & Koch
+Caliber=5.56x45mm NATO
+CountryOfOrigin=West Germany
+ProductionStart=1968
+FireModes=Semi-Automatic, 3-rd. Burst, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=700 RPM
+
+[SG552MG]
+Description=SIG SG 552 Commando to mniejsza, karabinkowa wersja karabinu SG 550. Dzieki swoim kompaktowym wymiarom i malej masie jest bardzo przydatna bronia dla jednostek SWAT na calym swiecie. Ten wariant jest komorowany na naboj 5.56x45mm NATO.
+FriendlyName=SG 552 Commando
+ShortName=SG 552 Commando
+Manufacturer=Sig Sauer
+Caliber=5.56x45mm Mk.262
+CountryOfOrigin=Switzerland
+ProductionStart=1998
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=20
+TotalAmmoString=10 magazines
+RateOfFire=700 RPM
+
+[SilencedSG552MG]
+Description=SIG SG 552 Commando to mniejsza, karabinkowa wersja karabinu SG 550. Dzieki swoim kompaktowym wymiarom i malej masie jest bardzo przydatna bronia dla jednostek SWAT na calym swiecie. Ten wariant jest komorowany na naboj 5.56x45mm NATO i wyposazony w tlumik do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed SG 552 Commando
+ShortName=Sup. SG 552 Commando
+Manufacturer=Sig Sauer
+Caliber=5.56x45mm Mk.262
+CountryOfOrigin=Switzerland
+ProductionStart=1998
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=20
+TotalAmmoString=10 magazines
+RateOfFire=700 RPM
+
+[M16A1MG]
+Description=Oryginalnie zaprojektowany w 1964 roku na bazie planow Armalite AR-15, karabin M16 po raz pierwszy zostal uzyty w dzunglach Wietnamu. M16A1 byl ewolucyjnym ulepszeniem – przeprojektowano wylot lufy, aby nie zahaczal o rosline, oraz zmniejszono wysoka awaryjnosc komory zamkowej poprzednika. Ten konkretny wariant jest wyposazony w taktyczna latarke.
+FriendlyName=M16A1
+ShortName=M16A1
+Manufacturer=Colt
+Caliber=5.56x45mm NATO
+CountryOfOrigin=United States
+ProductionStart=1967
+FireModes=Semi-Automatic, Full Auto
+MagazineSizeString=20
+TotalAmmoString=10 magazines
+RateOfFire=700 RPM
+
+[SilencedM16A1MG]
+Description=Oryginalnie zaprojektowany w 1964 roku na bazie planow Armalite AR-15, karabin M16 po raz pierwszy zostal uzyty w dzunglach Wietnamu. M16A1 byl ewolucyjnym ulepszeniem – przeprojektowano wylot lufy, aby nie zahaczal o rosline, oraz zmniejszono wysoka awaryjnosc komory zamkowej poprzednika. Ten konkretny wariant jest wyposazony w tlumik oraz taktyczna latarke.
+FriendlyName=Suppressed M16A1
+ShortName=Sup. M16A1
+Manufacturer=Colt
+Caliber=5.56x45mm NATO
+CountryOfOrigin=United States
+ProductionStart=1967
+FireModes=Semi-Automatic, Full Auto
+MagazineSizeString=20
+TotalAmmoString=10 magazines
+RateOfFire=700 RPM
+
+[MP5SSDSMG]
+Description=MP5SD5 to wariant MP5 wyposazony w zintegrowany tlumik oraz stala kolbe. MP5SD jest bardzo popularny wsrod jednostek do dzialan skrytych i wykorzystywany w operacjach wymagajacych maskowania dzwieku na calym swiecie. Bron ta jest komorowana na naboj 9x19mm Parabellum.
+FriendlyName=MP5SD5
+ShortName=MP5SD5
+Manufacturer=Heckler & Koch
+Caliber=9x19mm
+CountryOfOrigin=Germany
+ProductionStart=1974
+FireModes=Semi-Automatic, 3-rd. Burst, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=800 RPM
+
+[SilencedMP5KSMG]
+Description=MP5KA4 (K od niemieckiego "Kurz", czyli "krotki") zostal zaprojektowany jako wersja do walki na bliskim dystansie popularnej linii pistoletow maszynowych MP5. Mimo bardzo malej masy i kompaktowej konstrukcji jest trudny w uzyciu z powodu braku kolby. Pomimo tego pozostaje popularny wsrod sluzb ochrony i jednostek specjalnych na calym swiecie, w tym British Special Air Service.||Ten model jest wyposazony w tlumik dzwieku i plomienia do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed MP5KA4
+ShortName=Sup. MP5KA4
+Manufacturer=Heckler & Koch
+Caliber=9x19mm
+CountryOfOrigin=Germany
+ProductionStart=1976
+FireModes=Semi-Automatic, 3-rd. Burst, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=900 RPM
+
+[MP5KSMG]
+Description=MP5KA4 (K od niemieckiego "Kurz", czyli "krotki") zostal zaprojektowany jako wersja do walki na bliskim dystansie popularnej linii pistoletow maszynowych MP5. Mimo bardzo malej masy i kompaktowej konstrukcji jest trudny w uzyciu z powodu braku kolby. Pomimo tego pozostaje popularny wsrod sluzb ochrony i jednostek specjalnych na calym swiecie, w tym British Special Air Service.
+FriendlyName=MP5KA4
+ShortName=MP5KA4
+Manufacturer=Heckler & Koch
+Caliber=9x19mm
+CountryOfOrigin=Germany
+ProductionStart=1976
+FireModes=Semi-Automatic, 3-rd. Burst, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=900 RPM
+
+[MP5KtSMG]
+Description=MP5KA4 (K od niemieckiego "Kurz", czyli "krotki") zostal zaprojektowany jako wersja do walki na bliskim dystansie popularnej linii pistoletow maszynowych MP5. Ten konkretny model jest wyposazony w taktyczna kolbe, ktora poprawia kontrole nad bronia podczas ognia ciaglego.
+FriendlyName=MP5KA4 PDW
+ShortName=MP5KA4 PDW
+
+[SilencedMP5KtSMG]
+Description=MP5KA4 (K od niemieckiego "Kurz", czyli "krotki") zostal zaprojektowany jako wersja do walki na bliskim dystansie popularnej linii pistoletow maszynowych MP5. Ten konkretny model jest wyposazony w taktyczna kolbe, ktora poprawia kontrole nad bronia podczas ognia ciaglego, a takze w tlumik dzwieku i plomienia do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed MP5KA4 PDW
+ShortName=Sup. MP5KA4 PDW
+
+[Remington870SG]
+Description=Remington Model 870 to niezawodna i kompaktowa strzelba pump-action, zdolna powstrzymac nawet najgrozniejszych przestepcow. Jest szeroko wykorzystywana przez patrole policyjne i oddzialy SWAT, ale sluzy tez do strzelectwa sportowego i lowiectwa. Bron ta moze byc modyfikowana poprzez zastosowanie specjalnej amunicji do forsowania drzwi lub pociskow typu beanbag do dzialan mniej smiertelnych.
+FriendlyName=M870
+ShortName=M870
+Manufacturer=Remington
+Caliber=12 Gauge
+CountryOfOrigin=United States
+ProductionStart=1950
+FireModes=Pump-Action
+TotalAmmoString=50 shells
+RateOfFire=150 RPM
+
+[LessLethalM870SG]
+Description=Remington Model 870 to niezawodna i kompaktowa strzelba pump-action, zdolna powstrzymac nawet najgrozniejszych przestepcow. Jest szeroko wykorzystywana przez patrole policyjne i oddzialy SWAT, ale sluzy tez do strzelectwa sportowego i lowiectwa. Ten konkretny wariant wystrzeliwuje pociski beanbag, ktorych mozna uzywac wobec niesubordynowanych podejrzanych lub cywilow. Aby przypomniec operatorom, ze ta konkretna bron moze byc ladowana jedynie amunicja mniej smiertelna, zostala pomalowana na zielono.||Amunicja beanbag zadaje silne, tepe uderzenie w cel. Powoduje to ekstremalny bol i dezorientacje. Nalezy zachowac odpowiedni dystans miedzy operatorem a celem, aby pocisk zdazyl wyhamowac – w przeciwnym razie moze spowodowac potencjalnie zagraze obrazenia, takie jak zlamania kosci.
+FriendlyName=Less Lethal M870
+ShortName=Less Lethal M870
+Manufacturer=Remington
+Caliber=12 Gauge
+CountryOfOrigin=United States
+ProductionStart=1950
+FireModes=Pump-Action
+TotalAmmoString=50 shells
+RateOfFire=150 RPM
+
+[M1Super90SG]
+Description=M1 Super 90 to samopowtarzalna strzelba bojowa kalibru 12 z magazynkiem na piec nabojow i kompatybilnoscia z wieloma rodzajami nabojow 2,75". Z celownikiem trytowym swiecacym w ciemnosci, czternastocalowa chromowana lufa, kolba z wysokoudarowego polimeru oraz zamontowana latarka, Benelli M1 Super 90 moze byc konstrukcja nie najmlodsza, ale pozostaje podstawa w uzbrojeniu sil porzadkowych.
+FriendlyName=M1 Super 90 Defense
+ShortName=M1 Super 90
+Manufacturer=Benelli
+Caliber=12 Gauge
+CountryOfOrigin=Italy
+ProductionStart=1994
+FireModes=Semi-Automatic
+TotalAmmoString=50 shells
+RateOfFire=200 RPM
+
+[M4Super90SG]
+Description=Benelli M4 Super 90 (oznaczony przez armie USA jako M1014) to wysoce niezawodna, samopowtarzalna strzelba, opracowana pod koniec lat 90. jako ostateczny nastepca popularnej serii M1. Jej magazynek na 7 nabojow jest atrakcyjny dla sluzb porzadkowych, lecz wzgledna masa i gabaryty moga utrudniac jej uzycie w ciasnych pomieszczeniach.
+FriendlyName=M4 Super 90
+ShortName=M4 Super 90
+Manufacturer=Benelli
+Caliber=12 Gauge
+CountryOfOrigin=Italy
+ProductionStart=1999
+FireModes=Semi-Automatic
+TotalAmmoString=50 shells
+RateOfFire=200 RPM
+
+[M4Super90HoloSG]
+Description=Benelli M4 Super 90 (oznaczony przez armie USA jako M1014) to wysoce niezawodna, samopowtarzalna strzelba, opracowana pod koniec lat 90. jako ostateczny nastepca popularnej serii M1. Jej magazynek na 7 nabojow jest atrakcyjny dla sluzb porzadkowych, lecz wzgledna masa i gabaryty moga utrudniac jej uzycie w ciasnych pomieszczeniach.||Ten wariant jest wyposazony w celownik holograficzny, co ulatwia celowanie.
+FriendlyName=M4 Super 90 with Holographic Sight
+ShortName=M4 Super 90 Holographic
+
+[NovaPumpSG]
+Description=Nova Tactical, stosunkowo nowy projekt firmy Benelli, jest najwyzszej klasy strzelba pump-action. Chociaz strzela nieco wolniej niz samopowtarzalna M4 Super 90, dzieki przedluzonemu magazynkowi Nova moze pomiescic do 7 nabojow jednoczesnie.
+FriendlyName=Nova Tactical
+ShortName=Nova Tactical
+Manufacturer=Benelli
+Caliber=12 Gauge
+CountryOfOrigin=Italy
+ProductionStart=Late 1990s
+FireModes=Pump-Action
+TotalAmmoString=50 shells
+RateOfFire=100 RPM
+
+[ColtM1911HG]
+Description=Pistolet Colt M1911 pozostaje podstawa uzbrojenia sil porzadkowych od dziesiecioleci. Ta bron, komorowana na naboj .45 ACP, zadaje bardzo silne obrazenia i jest najczesciej wybierana jako bron zapasowa przez funkcjonariuszy SWAT. Ten pistolet samopowtarzalny ma magazynek na 7 nabojow i moze korzystac z amunicji z pelnym plaszczem oraz z pociskow typu jacketed hollow point.
+FriendlyName=M1911
+ShortName=M1911
+Manufacturer=Colt
+Caliber=.45 ACP
+CountryOfOrigin=United States
+ProductionStart=1911
+FireModes=Semi-Automatic
+MagazineSizeString=8
+TotalAmmoString=10 magazines
+RateOfFire=390 RPM
+
+[Kimber1911HG]
+Description=Kimber Custom II to nowoczesna odmiana konstrukcji 1911. Ta konkretna wersja zostala wyprodukowana specjalnie dla oddzialu SWAT Los Angeles Police Department w 2001 roku. Podobnie jak oryginalny M1911, Custom II jest komorowany na naboj .45 ACP z magazynkiem na 7 nabojow. Wielkosc, masa i obsluga sa porownywalne z M1911.
+FriendlyName=Kimber Custom II LAPD
+ShortName=Custom II
+Manufacturer=Colt
+Caliber=.45 ACP
+CountryOfOrigin=United States
+ProductionStart=1911
+FireModes=Semi-Automatic
+MagazineSizeString=8
+TotalAmmoString=10 magazines
+RateOfFire=390 RPM
+
+[Glock9mmHG]
+Description=Zaprojektowany przez konstruktora broni Gastona Glocka, ten austriacki pistolet wykonany jest w duzej mierze z zaawansowanych tworzyw polimerowych. Taka konstrukcja skutkuje bronia niezwykle latwa w obsludze i manipulacji. Chociaz jest slabszy od Colt 1911, ma standardowy magazynek na 17 nabojow. Latwosc uzycia, celność oraz mechanizm ''safe action'' sprawily, ze jest to popularny wybor wsrod formacji policyjnych.
+FriendlyName=Glock 17
+ShortName=Glock 17
+Manufacturer=Glock
+Caliber=9x19mm Parabellum
+CountryOfOrigin=Austria
+ProductionStart=1982
+FireModes=Semi-Automatic
+MagazineSizeString=17
+TotalAmmoString=10 magazines
+RateOfFire=390 RPM
+
+[Glock18HG]
+Description=Jeden z pierwszych pistoletow maszynowych, Glock 18, zostal opracowany na prosbe EKO Cobra – elitarnej jednostki taktycznej austriackiego Ministerstwa Spraw Wewnetrznych – aby przetestowac wytrzymalosc charakterystycznych polimerow Glocka. Pozniej ustalono, ze ta bron, dzieki niesamowicie wysokiej szybkostrzelnosci, ma pewien potencjal bojowy, jesli operator potrafi opanowac jej silny odrzut. Ze wzgledu na w pelni automatyczny tryb ognia bron ta nie jest dostepna dla cywilow i trafia wylacznie do elitarnych jednostek taktycznych, takich jak SWAT.
+FriendlyName=Glock 18
+ShortName=Glock 18
+Manufacturer=Glock
+Caliber=9x19 Parabellum
+CountryOfOrigin=Austria
+ProductionStart=1985
+FireModes=Full Auto, Semi-Automatic
+MagazineSizeString=33
+TotalAmmoString=10 magazines 
+RateOfFire=1200 RPM
+
+[Glock19HG]
+Description=Bardziej kompaktowa wersja Glock 17, Glock 19 ma skrocona o 12 mm (0,5 cala) lufe i zredukowana pojemnosc standardowego magazynka z 17 do 15 nabojow. Chociaz producent klasyfikuje go jako model ''compact'' i jest on mniejszy niz Glock 17, ma gorszy odrzut i mniejsza celność niz swoj pierwowzor.
+FriendlyName=Glock 19
+ShortName=Glock 19
+ProductionStart=1988
+MagazineSizeString=15
+
+[PythonRevolverHG]
+Description=Colt Python to jeden z najslynniejszych rewolwerow firmy Colt, wprowadzony w 1955 roku. Jest komorowany na potezna amunicje .357 Magnum, co czyni go jednym z najmocniejszych pistoletow recznych na rynku. Jego sila ognia jest jednak rownowazona przez niska szybkostrzelnosc i dlugi, uciazliwy proces przeladowania. Dodatkowo nie jest wyposazony w taktyczna latarke.
+FriendlyName=Python
+ShortName=Python
+Manufacturer=Colt
+Caliber=.357 Magnum
+CountryOfOrigin=United States
+ProductionStart=1955
+FireModes=Double-Action
+MagazineSizeString=6
+TotalAmmoString=10 speedloaders
+RateOfFire=80 RPM
+
+[DesertEagleHG]
+Description=Ten pistolet samopowtarzalny miesci osiem nabojow .50 Action Express, oferujac najwieksza sile obalajaca sposrod pistoletow samopowtarzalnych, ustepujac jedynie rewolwerom. Bron ta jest czesto wybierana przez przestepcow ze wzgledu na znaczny efekt zastraszajacy, lecz rzadko uwazana za praktyczna bron bojowa z powodu malej pojemnosci magazynka i nadmiernej masy.
+FriendlyName=Desert Eagle
+ShortName=Desert Eagle
+Manufacturer=Israel Military Industries (IMI)
+Caliber=.50 Action Express
+CountryOfOrigin=Israel
+ProductionStart=1995
+FireModes=Semi-Automatic
+MagazineSizeString=8
+TotalAmmoString=10 magazines
+RateOfFire=300 RPM
+
+[TEC9HG]
+Description=Ten nieslawny pistolet maszynowy zostal opracowany przez Intratec, oddzial firmy Interdynamic z siedziba w Miami. Choc ma stosunkowo slaba sile obalajaca w porownaniu z pelnowymiarowymi pistoletami maszynowymi, jego bardzo kompaktowe wymiary i latwosc przerobienia na ogien ciagly sprawiaja, ze jest on popularnym wyborem do strzelanin z przejezdzajacych pojazdow i porachunkow gangow. TEC-DC9 zdobyl spory rozglos w amerykanskich mediach po strzelaninach w szkolach w Columbine i Cleveland. Po tych wydarzeniach bron zostala z nazwy zakazana w kilku stanach, a Intratec oglosil bankructwo. Pomimo kryminalnej reputacji dodano tu latarke, aby poprawic walory taktyczne w ciemnych pomieszczeniach.
+FriendlyName=TEC-DC9
+ShortName=TEC-DC9
+Manufacturer=Intratec
+Caliber=9x19mm Parabellum
+CountryOfOrigin=United States
+ProductionStart=1989
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=32
+TotalAmmoString=10 magazines
+RateOfFire=950 RPM
+
+[FNP90SMG]
+Description=P90 zostal opracowany przez belgijska firme FN razem z pistoletem Five-Seven w odpowiedzi na zapotrzebowanie NATO na nastepce broni strzelajacej klasycznym nabojem 9x19mm. Produkcje rozpoczecia w 1990 roku (stad nazwa P90), a bron wyróżnia sie futurystyczna, obustronna konstrukcja. Pozostaje w sluzbie w ponad 40 krajach na calym swiecie.||Jedna z unikalnych cech P90 jest magazynek ladowany od gory. Dzieki kompaktowej konstrukcji moze on pomiescic nienormalnie duza ilosc amunicji.
+FriendlyName=P90
+ShortName=P90
+Manufacturer=FN Herstal
+Caliber=5.7x28mm FN
+CountryOfOrigin=Belgium
+ProductionStart=1990
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=50
+TotalAmmoString=10 magazines
+RateOfFire=900 RPM
+
+[SilencedFNP90SMG]
+Description=P90 zostal opracowany przez belgijska firme FN razem z pistoletem Five-Seven w odpowiedzi na zapotrzebowanie NATO na nastepce broni strzelajacej klasycznym nabojem 9x19mm. Produkcje rozpoczecia w 1990 roku (stad nazwa P90), a bron wyróżnia sie futurystyczna, obustronna konstrukcja. Pozostaje w sluzbie w ponad 40 krajach na calym swiecie. Jedna z unikalnych cech P90 jest magazynek ladowany od gory. Dzieki kompaktowej konstrukcji moze on pomiescic nienormalnie duza ilosc amunicji. Ten konkretny model jest wyposazony w tlumik dzwieku i plomienia do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed P90
+ShortName=Sup. P90
+Manufacturer=FN Herstal
+Caliber=5.7x28mm FN
+CountryOfOrigin=Belgium
+ProductionStart=1990
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=50
+TotalAmmoString=10 magazines
+RateOfFire=900 RPM
+
+[MP5SMG]
+Description=Ten pistolet maszynowy kalibru 9mm zostal zaprojektowany przez H&K, swiatowej klasy niemieckiego producenta broni. Jest preferowany przez wiele formacji paramilitarnych na calym swiecie do dzialan taktycznych w srodowisku miejskim. Strzelajac amunicja 9x19mm z pociskami w plaszczach stalowych lub typu jacketed hollow point, jest wszechstronny, ale ma mniejsza sile obalajaca niz karabin szturmowy. Jego kluczowa zaleta to kompaktowa konstrukcja, dzieki ktorej zapewnia znakomita manewrowosc w pomieszczeniach. Jest wyposazony w selektor ognia pozwalajacy na ogien automatyczny, samopowtarzalny oraz serie trojstrzalowe.
+FriendlyName=MP5A4
+ShortName=MP5A4
+Manufacturer=Heckler & Koch
+Caliber=9x19mm
+CountryOfOrigin=Germany
+ProductionStart=1974
+FireModes=Semi-Automatic, 3-rd. Burst, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=800 RPM
+
+[MP5HoloSMG]
+Description=Ten pistolet maszynowy kalibru 9mm zostal zaprojektowany przez H&K, swiatowej klasy niemieckiego producenta broni. Jest preferowany przez wiele formacji paramilitarnych na calym swiecie do dzialan taktycznych w srodowisku miejskim. Strzelajac amunicja 9x19mm z pociskami w plaszczach stalowych lub typu jacketed hollow point, jest wszechstronny, ale ma mniejsza sile obalajaca niz karabin szturmowy. Jego kluczowa zaleta to kompaktowa konstrukcja, dzieki ktorej zapewnia znakomita manewrowosc w pomieszczeniach. Jest wyposazony w selektor ognia pozwalajacy na ogien automatyczny, samopowtarzalny oraz serie trojstrzalowe. Ten konkretny wariant jest wyposazony w celownik holograficzny, co ulatwia celowanie.
+FriendlyName=MP5A4 with Holographic Sight
+ShortName=MP5A4 with Holographic Sight
+
+[UNUSEDSilencedMP5SMG]
+Description=Ten pistolet maszynowy kalibru 9mm zostal zaprojektowany przez H&K, swiatowej klasy niemieckiego producenta broni. Jest preferowany przez wiele formacji paramilitarnych na calym swiecie do dzialan taktycznych w srodowisku miejskim. Strzelajac amunicja 9x19mm z pociskami w plaszczach stalowych lub typu jacketed hollow point, jest wszechstronny, ale ma mniejsza sile obalajaca niz karabin szturmowy. Jego kluczowa zaleta to kompaktowa konstrukcja, dzieki ktorej zapewnia znakomita manewrowosc w pomieszczeniach. Ten model jest wyposazony w selektor ognia pozwalajacy na ogien automatyczny, samopowtarzalny oraz serie trojstrzalowe. Posiada tez zintegrowany tlumik dzwieku i plomienia do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed MP5A4
+ShortName=Sup. MP5A4
+Manufacturer=Heckler & Koch
+Caliber=Subsonic 9x19mm
+CountryOfOrigin=Germany
+ProductionStart=1974
+FireModes=Semi-Automatic, 3-rd. Burst, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=800 RPM
+
+[SilencedMP5HoloSMG]
+Description=Ten pistolet maszynowy kalibru 9mm zostal zaprojektowany przez H&K, swiatowej klasy niemieckiego producenta broni. Jest preferowany przez wiele formacji paramilitarnych na calym swiecie do dzialan taktycznych w srodowisku miejskim. Strzelajac amunicja 9x19mm z pociskami w plaszczach stalowych lub typu jacketed hollow point, jest wszechstronny, ale ma mniejsza sile obalajaca niz karabin szturmowy. Jego kluczowa zaleta to kompaktowa konstrukcja, dzieki ktorej zapewnia znakomita manewrowosc w pomieszczeniach. Ten model jest wyposazony w selektor ognia pozwalajacy na ogien automatyczny, samopowtarzalny oraz serie trojstrzalowe. Posiada tez zintegrowany tlumik dzwieku i plomienia do dzialan, w ktorych kluczowy jest skryty sposob dzialania oraz celownik holograficzny, co ulatwia celowanie.
+FriendlyName=Suppressed MP5A4 Holographic
+ShortName=Sup. MP5 Holo
+
+[UMP45SMG]
+Description=UMP to lzejszy i tanszy nastepca MP5. W duzej mierze wykonany z wlokna szklanego wzmacnianego polimerami, ten lekki pistolet maszynowy oferuje ta sama niezawodnosc co MP5, ale z dodatkowa sila wiekszego naboju .45 ACP. Ciezszy pocisk zapewnia lepsza penetracje celow opancerzonych przy uzyciu amunicji FMJ niz jego 9-milimetrowy odpowiednik, mimo nizszej predkosci poczatkowej i wolniejszego cyklicznego tempa ognia. Ten model jest wyposazony w selektor ognia z trybami samopowtarzalnym, seria dwu-strzalowa oraz ogien ciagly.
+FriendlyName=UMP
+ShortName=UMP
+Manufacturer=Heckler & Koch
+Caliber=.45 ACP
+CountryOfOrigin=Germany
+ProductionStart=1999
+FireModes=Semi-Automatic, 2-rd. Burst, Full-Auto
+MagazineSizeString=25
+TotalAmmoString=10 magazines
+RateOfFire=600 RPM
+
+[UMP45HoloSMG]
+Description=UMP to lzejszy i tanszy nastepca MP5. W duzej mierze wykonany z wlokna szklanego wzmacnianego polimerami, ten lekki pistolet maszynowy oferuje ta sama niezawodnosc co MP5, ale z dodatkowa sila wiekszego naboju .45 ACP. Ciezszy pocisk zapewnia lepsza penetracje celow opancerzonych przy uzyciu amunicji FMJ niz jego 9-milimetrowy odpowiednik, mimo nizszej predkosci poczatkowej i wolniejszego cyklicznego tempa ognia. Ten model jest wyposazony w selektor ognia z trybami samopowtarzalnym, seria dwu-strzalowa oraz ogien ciagly. Ten konkretny wariant posiada celownik holograficzny, co ulatwia celowanie.
+FriendlyName=UMP with Holographic Sight
+ShortName=UMP Holographic
+
+[UMP45sdSMG]
+Description=UMP to lzejszy i tanszy nastepca MP5. W duzej mierze wykonany z wlokna szklanego wzmacnianego polimerami, ten lekki pistolet maszynowy oferuje ta sama niezawodnosc co MP5, ale z dodatkowa sila wiekszego naboju .45 ACP. Ciezszy pocisk zapewnia lepsza penetracje celow opancerzonych przy uzyciu amunicji FMJ niz jego 9-milimetrowy odpowiednik, mimo nizszej predkosci poczatkowej i wolniejszego cyklicznego tempa ognia. Ten model jest wyposazony w selektor ognia z trybami samopowtarzalnym, seria dwu-strzalowa oraz ogien ciagly, a takze w tlumik do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed UMP
+ShortName=Sup. UMP
+
+[UMP45sdHoloSMG]
+Description=UMP to lzejszy i tanszy nastepca MP5. W duzej mierze wykonany z wlokna szklanego wzmacnianego polimerami, ten lekki pistolet maszynowy oferuje ta sama niezawodnosc co MP5, ale z dodatkowa sila wiekszego naboju .45 ACP. Ciezszy pocisk zapewnia lepsza penetracje celow opancerzonych przy uzyciu amunicji FMJ niz jego 9-milimetrowy odpowiednik, mimo nizszej predkosci poczatkowej i wolniejszego cyklicznego tempa ognia. Ten model jest wyposazony w selektor ognia z trybami samopowtarzalnym, seria dwu-strzalowa oraz ogien ciagly, tlumik do dzialan, w ktorych kluczowy jest skryty sposob dzialania, oraz celownik holograficzny, co ulatwia celowanie.
+FriendlyName=Suppressed UMP Holo
+ShortName=Sup. UMP Holo
+
+[ColtSMG]
+Description=Ta skrocona wersja karabinu szturmowego M16 zostala zaprojektowana z mysla o walce w bliskim kontakcie. Zamiast strzelac nabojem 5.56x45mm NATO z komory gazowej, ten model wystrzeliwuje naboje 9x19mm Parabellum z zamka ryglowanego w ukladzie zamka zamknietego. Zdobyl popularnosc wsrod formacji policyjnych dzieki stosunkowo niskiej cenie w porownaniu z niemieckimi konstrukcjami oraz lepszej celności w porownaniu z pistoletami maszynowymi strzelajacymi z zamka otwartego.
+FriendlyName=Colt Model 635
+ShortName=Colt Model 635
+Manufacturer=Colt
+Caliber=9x19mm
+CountryOfOrigin=United States
+ProductionStart=1982
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=800 RPM
+
+[SilencedColtSMG]
+Description=Ta skrocona wersja karabinu szturmowego M16 zostala zaprojektowana z mysla o walce w bliskim kontakcie. Zamiast strzelac nabojem 5.56x45mm NATO z komory gazowej, ten model wystrzeliwuje naboje 9x19mm Parabellum z zamka ryglowanego w ukladzie zamka zamknietego. Zdobyl popularnosc wsrod formacji policyjnych dzieki stosunkowo niskiej cenie w porownaniu z niemieckimi konstrukcjami oraz lepszej celności w porownaniu z pistoletami maszynowymi strzelajacymi z zamka otwartego. Ten konkretny model jest wyposazony w tlumik dzwieku i plomienia do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed Colt 635
+ShortName=Sup. Colt 635
+
+[SCARHMG]
+Description=Prawdziwie nowoczesny karabin szturmowy, SCAR (skrot od ''Special operations forces Combat Assault Rifle'') to najnowsza propozycja firmy FN Herstal w kategorii pelnowymiarowych karabinow szturmowych. Oznaczenie H wskazuje, ze ten konkretny model strzela nabojem 7.62x51mm. W porownaniu z M4A1 mniejsza pojemnosc magazynka i nizsza szybkostrzelnosc sa rownowazone przez wieksza sile obalajaca.
+FriendlyName=SCAR-H CQC
+ShortName=SCAR-H
+Manufacturer=FN Herstal
+Caliber=7.62x51mm
+CountryOfOrigin=Belgium/United States
+ProductionStart=2004
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=20
+TotalAmmoString=10 magazines
+RateOfFire=600 RPM
+
+[SCARHAMG]
+Description=Prawdziwie nowoczesny karabin szturmowy, SCAR (skrot od ''Special operations forces Combat Assault Rifle'') to najnowsza propozycja firmy FN Herstal w kategorii pelnowymiarowych karabinow szturmowych. Oznaczenie H wskazuje, ze ten konkretny model strzela nabojem 7.62x51mm. Strzela wolniej i ma mniejszy magazynek niz M4, ale rekompensuje to znacznie wiekszym kalibrem. Jest wyposazony w celownik Aimpoint, co ulatwia prowadzenie ognia do odleglych celow.
+FriendlyName=SCAR-H with Aimpoint Sight
+ShortName=SCAR-H Aim.
+
+[SCARHsdMG]
+Description=Prawdziwie nowoczesny karabin szturmowy, SCAR (skrot od ''Special operations forces Combat Assault Rifle'') to najnowsza propozycja firmy FN Herstal w kategorii pelnowymiarowych karabinow szturmowych. Oznaczenie H wskazuje, ze ten konkretny model strzela nabojem 7.62x51mm. Strzela wolniej i ma mniejszy magazynek niz M4, ale rekompensuje to znacznie wiekszym kalibrem. Ten model jest wyposazony w tlumik plomienia i dzwieku do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed SCAR-H
+ShortName=Sup. SCAR-H
+
+[SCARHAsdMG]
+Description=Prawdziwie nowoczesny karabin szturmowy, SCAR (skrot od ''Special operations forces Combat Assault Rifle'') to najnowsza propozycja firmy FN Herstal w kategorii pelnowymiarowych karabinow szturmowych. Oznaczenie H wskazuje, ze ten konkretny model strzela nabojem 7.62x51mm. Strzela wolniej i ma mniejszy magazynek niz M4, ale rekompensuje to znacznie wiekszym kalibrem. Ten model jest wyposazony w tlumik plomienia i dzwieku do dzialan, w ktorych kluczowy jest skryty sposob dzialania, oraz celownik Aimpoint, co ulatwia prowadzenie ognia do odleglych celow.
+FriendlyName=Suppressed SCAR-H with Aimpoint Sight
+ShortName=Sup. SCAR-H Aim.
+
+[M4A1MG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Krotszy projekt karabinka sprawia, ze jest on bardziej przydatny niz M16 w walce w bliskim kontakcie. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny oraz w pelni automatyczny.
+FriendlyName=M4A1 Carbine
+ShortName=M4A1
+Manufacturer=Colt
+Caliber=5.56x45mm NATO
+CountryOfOrigin=United States
+ProductionStart=1994
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=800 RPM
+
+[M4A1HoloMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Krotszy projekt karabinka sprawia, ze jest on bardziej przydatny niz M16 w walce w bliskim kontakcie. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny oraz w pelni automatyczny. Ten konkretny wariant ma celownik holograficzny, co ulatwia celowanie.
+FriendlyName=M4A1 Carbine Holographic
+ShortName=M4A1 Holo
+
+[M4A1sdMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Krotszy projekt karabinka sprawia, ze jest on bardziej przydatny niz M16 w walce w bliskim kontakcie. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny oraz w pelni automatyczny. Ten konkretny wariant ma tlumik, co jest istotne przy dzialaniach wymagajacych skrytego podejscia.
+FriendlyName=Suppressed M4A1 Carbine
+ShortName=Sup. M4A1
+
+[M4A1sdHoloMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Krotszy projekt karabinka sprawia, ze jest on bardziej przydatny niz M16 w walce w bliskim kontakcie. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny oraz w pelni automatyczny. Ten konkretny wariant ma tlumik do dzialan skrytych oraz celownik holograficzny, co ulatwia celowanie.
+FriendlyName=Suppressed M4A1 Carbine Holo
+ShortName=Sup. M4A1 Holo
+
+[M4A1AMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Krotszy projekt karabinka sprawia, ze jest on bardziej przydatny niz M16 w walce w bliskim kontakcie. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny oraz w pelni automatyczny i celownik Aimpoint, co ulatwia zwalczanie celow na dalszym dystansie.
+FriendlyName=M4A1 Carbine with Aimpoint Sight
+ShortName=M4A1 Aim.
+
+[M4A1AsdMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Krotszy projekt karabinka sprawia, ze jest on bardziej przydatny niz M16 w walce w bliskim kontakcie. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny oraz w pelni automatyczny, tlumik do dzialan skrytych i celownik Aimpoint, co ulatwia zwalczanie celow na dalszym dystansie.
+FriendlyName=Suppressed M4A1 Carbine with Aimpoint Sight
+ShortName=Sup. M4A1 Aim.
+
+[M4A1CQBMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Konfiguracja CQB jest zaprojektowana z mysla o jeszcze lepszej kontroli w ciasnych pomieszczeniach, podobnie jak pistolet maszynowy, przy zachowaniu sily ognia pelnowymiarowego karabinu szturmowego. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny oraz w pelni automatyczny.
+FriendlyName=M4A1 CQB Carbine
+ShortName=M4A1 CQB
+
+[M4A1CQBAMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Konfiguracja CQB jest zaprojektowana z mysla o jeszcze lepszej kontroli w ciasnych pomieszczeniach, podobnie jak pistolet maszynowy, przy zachowaniu sily ognia pelnowymiarowego karabinu szturmowego. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny i w pelni automatyczny oraz celownik Aimpoint, co ulatwia zwalczanie celow na dalszym dystansie.
+FriendlyName=M4A1 CQB Carbine with Aimpoint Sight
+ShortName=M4A1 CQB Aim.
+
+[M4A1CQBHoloMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Konfiguracja CQB jest zaprojektowana z mysla o jeszcze lepszej kontroli w ciasnych pomieszczeniach, podobnie jak pistolet maszynowy, przy zachowaniu sily ognia pelnowymiarowego karabinu szturmowego. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny i w pelni automatyczny oraz celownik holograficzny, co ulatwia celowanie.
+FriendlyName=M4A1 CQB Carbine with Holographic Sight
+ShortName=M4A1 CQB Holo.
+
+[M4A1CQBsdMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Konfiguracja CQB jest zaprojektowana z mysla o jeszcze lepszej kontroli w ciasnych pomieszczeniach, podobnie jak pistolet maszynowy, przy zachowaniu sily ognia pelnowymiarowego karabinu szturmowego. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny i w pelni automatyczny oraz tlumik plomienia i dzwieku do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed M4A1 CQB Carbine
+ShortName=Sup. M4A1 CQB
+
+[M4A1CQBAsdMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Konfiguracja CQB jest zaprojektowana z mysla o jeszcze lepszej kontroli w ciasnych pomieszczeniach, podobnie jak pistolet maszynowy, przy zachowaniu sily ognia pelnowymiarowego karabinu szturmowego. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny i w pelni automatyczny, tlumik plomienia i dzwieku do dzialan skrytych oraz celownik Aimpoint, co ulatwia zwalczanie celow na dalszym dystansie.
+FriendlyName=Suppressed M4A1 CQB with Aimpoint Sight
+ShortName=Sup. M4A1 CQB Aim.
+
+[M4A1CQBHolosdMG]
+Description=Karabinek Colt M4A1 bazuje na sprawdzonej konstrukcji karabinu M16 uzywanego przez armie Stanow Zjednoczonych. Konfiguracja CQB jest zaprojektowana z mysla o jeszcze lepszej kontroli w ciasnych pomieszczeniach, podobnie jak pistolet maszynowy, przy zachowaniu sily ognia pelnowymiarowego karabinu szturmowego. Strzelajac amunicja 5.56x45mm w konfiguracjach FMJ oraz jacketed hollow point, M4A1 jest najpotezniejsza bronia dostepna dla funkcjonariuszy SWAT. Jest wyposazony w selektor ognia pozwalajacy na ogien samopowtarzalny i w pelni automatyczny, tlumik plomienia i dzwieku do dzialan skrytych oraz celownik holograficzny, co ulatwia celowanie.
+FriendlyName=Suppressed M4A1 CQB with Holographic Sight
+ShortName=Sup. M4A1 CQB Holo
+
+[G36kMG]
+Description=H&K G36K to lekki, kompaktowy karabin szturmowy opracowany pierwotnie w latach 90. przez H&K dla Bundeswehry. Obecnie jest powszechnie uwazany za niezwykle niezawodny, uniwersalny karabinek. Strzelajac sredniej mocy nabojem 5.56x45mm, bron ta jest wyposazona w selektor ognia z trybem dwu-strzalowej serii, a takze ogniem samopowtarzalnym i ciaglym.
+FriendlyName=G36K
+ShortName=G36K
+Manufacturer=Heckler & Koch
+Caliber=5.56x45mm DM11
+CountryOfOrigin=Germany
+ProductionStart=1997
+FireModes=Semi-Automatic, 2-rd. Burst, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=750 RPM
+
+[G36kHoloMG]
+Description=H&K G36K to lekki, kompaktowy karabin szturmowy opracowany pierwotnie w latach 90. przez H&K dla Bundeswehry. Obecnie jest powszechnie uwazany za niezwykle niezawodny, uniwersalny karabinek. Strzelajac sredniej mocy nabojem 5.56x45mm, bron ta jest wyposazona w selektor ognia z trybem dwu-strzalowej serii, a takze ogniem samopowtarzalnym i ciaglym. Ten konkretny wariant posiada celownik holograficzny, co ulatwia celowanie.
+FriendlyName=G36K with Holographic Sights
+ShortName=G36K Holographic
+
+[G36ksdMG]
+Description=H&K G36K to lekki, kompaktowy karabin szturmowy opracowany pierwotnie w latach 90. przez H&K dla Bundeswehry. Obecnie jest powszechnie uwazany za niezwykle niezawodny, uniwersalny karabinek. Strzelajac sredniej mocy nabojem 5.56x45mm, bron ta jest wyposazona w selektor ognia z trybem dwu-strzalowej serii, a takze ogniem samopowtarzalnym i ciaglym oraz tlumik do dzialan, w ktorych kluczowy jest skryty sposob dzialania.
+FriendlyName=Suppressed G36K
+ShortName=Sup. G36K
+
+[G36ksdHoloMG]
+Description=H&K G36K to lekki, kompaktowy karabin szturmowy opracowany pierwotnie w latach 90. przez H&K dla Bundeswehry. Obecnie jest powszechnie uwazany za niezwykle niezawodny, uniwersalny karabinek. Strzelajac sredniej mocy nabojem 5.56x45mm, bron ta jest wyposazona w selektor ognia z trybem dwu-strzalowej serii, a takze ogniem samopowtarzalnym i ciaglym oraz tlumik do dzialan, w ktorych kluczowy jest skryty sposob dzialania, a takze celownik holograficzny, co ulatwia celowanie.
+FriendlyName=Suppressed G36K Holographic
+ShortName=Sup. G36K Holo
+
+[UziSMG]
+Description=Uzi to kompaktowy i niezawodny pistolet maszynowy opracowany na poczatku lat piecdziesiatych w Izraelu. Jest ikona wielu gangsterskich filmow z Hollywood. Ma niska szybkostrzelnosc i jest bardzo latwy do opanowania nawet podczas ognia ciaglego. Ten model jest wyposazony w tlumik, co czyni go bardziej dyskretnym wyborem.
+FriendlyName=Suppressed Uzi
+ShortName=Sup. Uzi
+Manufacturer=Israel Military Industries (IMI)
+Caliber=Subsonic 9x19mm
+CountryOfOrigin=Israel
+ProductionStart=1950
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=25
+TotalAmmoString=10 magazines
+RateOfFire=600 RPM
+
+[UziTSMG]
+Description=Uzi to kompaktowy i niezawodny pistolet maszynowy opracowany na poczatku lat piecdziesiatych w Izraelu. Jest ikona wielu gangsterskich filmow z Hollywood. Ma niska szybkostrzelnosc i jest bardzo latwy do opanowania nawet podczas ognia ciaglego. Ten model jest wyposazony w tlumik, co czyni go bardziej dyskretnym wyborem. Pomimo tego, ze nie jest to standardowa bron SWAT, dodano do niego latarke, aby poprawic jego wartosc taktyczna w ciemnych pomieszczeniach.
+
+[MAC10SMG]
+Description=Military Armament Corporation Model 10, szerzej znany jako "MAC-10", to kompaktowy pistolet maszynowy o bardzo wysokiej szybkostrzelnosci. Ta wersja jest komorowana na naboj .45 ACP. MAC-10 bywa okreslany mianem "wazowki", poniewaz zostal zaprojektowany pod katem latwej skrytej nosnosci, a nie celności. Przyrzady celownicze nie sa regulowane, a odrzut jest znaczny.
+FriendlyName=MAC-10
+ShortName=MAC-10
+Manufacturer=Military Armament Corporation (MAC)
+Caliber=.45 ACP
+CountryOfOrigin=United States
+ProductionStart=1964
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=1145 RPM
+
+[MAC10sdSMG]
+Description=Military Armament Corporation Model 10, szerzej znany jako "MAC-10", to kompaktowy pistolet maszynowy o bardzo wysokiej szybkostrzelnosci. Ta wersja jest komorowana na naboj .45 ACP. MAC-10 bywa okreslany mianem "wazowki", poniewaz zostal zaprojektowany pod katem latwej skrytej nosnosci, a nie celności. Ten wariant ma duzy tlumik, ktory poprawia kontrole nad bronia, ale podwaja jej dlugosc.
+FriendlyName=MAC-10 Suppressed
+ShortName=MAC-10 SD
+Manufacturer=Military Armament Corporation (MAC)
+Caliber=.45 ACP
+CountryOfOrigin=United States
+ProductionStart=1964
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=1145 RPM
+
+[SAWMG]
+Description=Ten lekki karabin maszynowy jest przeznaczony wylacznie do dzialan wojskowych; jak w przypadku wiekszosci broni, czesc egzemplarzy trafia jednak na czarny rynek. Zostal zaprojektowany do prowadzenia celnego ognia z biodra lub ramienia, choc najczesciej uzywa sie go z rozlozonym dwunogiem. Korzysta z pudelkowego magazynka na 200 nabojow tasmy z ogniwami zrywanymi.
+FriendlyName=M249 Light Machine Gun
+ShortName=M249
+Manufacturer=FN Herstal
+Caliber=5.56x45mm NATO
+CountryOfOrigin=Belgium
+ProductionStart=Late 1970s
+FireModes=Full-Auto
+MagazineSizeString=200
+TotalAmmoString=10 belts
+RateOfFire=800 RPM
+
+[FNFALMG]
+Description=Noszacy przydomek 'The right arm of the free world', FAL byl produkowany przez FN Herstal w okresie Zimnej Wojny i uzywany przez wiele panstw. Do dzis pozostaje szeroko rozpowszechniony. Pomimo duzej dlugosci, ktora utrudnia jego uzycie w ciasnych pomieszczeniach, i silnego odrzutu utrudniajacego dluzszy ogien ciagly, nadrabia to ogromna sila ognia.
+FriendlyName=FAL
+ShortName=FAL
+Manufacturer=FN Herstal
+Caliber=7.62x51mm
+CountryOfOrigin=Belgium
+ProductionStart=1954
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=700 RPM
+
+[AK47MG]
+Description=Kalashnikov AKM zostal zaprojektowany w Zwiazku Radzieckim w 1957 roku przez Michaila Kalashnikova. Oficjalnie przyjety do uzbrojenia armii radzieckiej w 1959 roku, zostal pozniej zastapiony przez karabin AK-74. Pozostaje jednak w sluzbie wielu armii panstw trzeciego swiata oraz organizacji terrorystycznych na calym swiecie ze wzgledu na swoja niezawodnosc i latwosc obslugi. Ma nizsza szybkostrzelnosc i mniejsza predkosc wylotowa pocisku niz Colt M4A1, ale korzysta z naboju wiekszego kalibru, co czyni go porownywalnym z amerykanskim odpowiednikiem na krotkich dystansach.
+FriendlyName=AKM
+ShortName=AKM
+Manufacturer=Kalashnikov
+Caliber=7.62x39mm
+CountryOfOrigin=Soviet Union
+ProductionStart=1959
+FireModes=Semi-Automatic, Full-Auto
+MagazineSizeString=30
+TotalAmmoString=10 magazines
+RateOfFire=600 RPM
+
+[AK47tMG]
+Description=Kalashnikov AKM zostal zaprojektowany w Zwiazku Radzieckim w 1957 roku przez Michaila Kalashnikova. Oficjalnie przyjety do uzbrojenia armii radzieckiej w 1959 roku, zostal pozniej zastapiony przez karabin AK-74. Pozostaje jednak w sluzbie wielu armii panstw trzeciego swiata oraz organizacji terrorystycznych na calym swiecie ze wzgledu na swoja niezawodnosc i latwosc obslugi. Ma nizsza szybkostrzelnosc i mniejsza predkosc wylotowa pocisku niz Colt M4A1, ale korzysta z naboju wiekszego kalibru, co czyni go porownywalnym z amerykanskim odpowiednikiem na krotkich dystansach. Do tej broni dodano latarke, aby poprawic jej przydatnosc w sytuacjach taktycznych.
+
+[AK74sutMG]
+Description=AK-74 zostal opracowany jako odpowiedz na krytyke konstrukcji karabinow AK-47 i AKM. W szczegolnosci zastosowano naboj 5.45x39mm zamiast 7.62x39mm, aby ograniczyc problem nadmiernej penetracji celu, wprowadzono chromowana lufe w celu zmniejszenia wymagan konserwacyjnych oraz dodano szyny do montazu osprzetu podlufowego. Ten konkretny model, karabinek czesto okreslany mianem ''Krinkov'', jest wyposazony w latarke, aby lepiej spisywal sie w zastosowaniach taktycznych, i jest bardziej dostosowany do walki w bliskim kontakcie.
+FriendlyName=AKs-74u
+ShortName=AKs-74u
+Manufacturer=Kalashnikov
+Caliber=5.45x39mm
+CountryOfOrigin=Soviet Union
+ProductionStart=1974
+FireModes=Semi-Automatic, Full Auto
+MagazineSize=30
+TotalAmmoString=10 magazines
+RateOfFire=600 RPM
+
+[Taser]
+Description=Paralizatory dzialaja na zasadzie Electro-Muscular Disruption (EMD). Ten model miota do celu male elektrody, a nastepnie przesyla przez cienkie przewody silny ladunek elektryczny. Efekt EMD powoduje mimowolne skurcze miesni celu niezaleznie od progu bolu czy koncentracji psychicznej. Efekt jest bolesny i demoralizujacy nawet dla najbardziej agresywnych podejrzanych.||Urzadzenia EMD maja trzy kluczowe wady. Po pierwsze, ich zasieg jest stosunkowo niewielki. Po drugie, po kazdym strzale trzeba zaladowac nowe elektrody. Po trzecie, EMD niesie ze soba liczne ryzyka, w tym mozliwosc zatrzymania akcji serca u osob uzaleznionych od narkotykow, osob starszych lub z okreslonymi problemami kardiologicznymi.
+FriendlyName=X26P Stun Gun
+ShortName=X26P Stun Gun
+Manufacturer=TASER International
+Caliber=TASER Cartridge
+CountryOfOrigin=United States
+ProductionStart=2000
+FireModes=Single Fire
+TotalAmmoString=25 cartridges
+
+[Stingray]
+Description=Model X2 to dwufunkcyjna bron mniej smiertelna. Oferuje zarowno strzal na dystans z wykorzystaniem Electro-Muscular Disruption (EMD), jak i tryb paralizatora kontaktowego. Wyladowanie elektryczne powoduje mimowolne skurcze miesni celu, niezaleznie od progu bolu czy koncentracji psychicznej. Efekt jest bolesny i demoralizujacy nawet dla najbardziej agresywnych podejrzanych. X2 moze wystrzelic elektrody w grupie czterech lub dwoch oddzielnych parach po dwie. Moze tez byc uzywany jako bron kontaktowa w walce wrecz. Wbudowany komputer rejestruje dane m.in. o intensywnosci i czasie trwania wstrzasu. Glowna wada jest krotszy zasieg nabojow X2 w porownaniu z nowszym modelem X26P.
+FriendlyName=X2 Series Stun Gun
+ShortName=X2 Series Stun Gun
+Manufacturer=TASER International
+Caliber=TASER Cartridge
+CountryOfOrigin=United States
+ProductionStart=2004
+FireModes=2-Barb, 4-Barb, Touch-Stun
+TotalAmmoString=25 cartridges
+
+[HK69GrenadeLauncher]
+Description=Granatnik stal sie standardowym wyposazeniem policji w nietypowych sytuacjach, takich jak akcje ratowania zakladnikow czy kontrola zamieszek. Jego zdolnosc do wystrzeliwania szerokiego wachlarza amunicji mniej smiertelnej, zarowno bezposredniej, jak i posredniej, sprawia, ze jest niezwykle wszechstronny.
+FriendlyName=HK69A1
+ShortName=HK69A1
+Manufacturer=Heckler & Koch
+Caliber=40x46mm grenade
+CountryOfOrigin=West Germany
+ProductionStart=1960s
+FireModes=Single Fire
+MagazineSizeString=1
+TotalAmmoString=25 grenades
+RateOfFire=6 RPM
+
+[ColtAccurizedRifle]
+Description=Colt Accurized Rifle zajmuje miejsce posrednie miedzy karabinem szturmowym a klasycznym karabinem snajperskim. CAR laczy precyzyjny ogien na dystansie z duza pojemnoscia amunicji, niezbedna w dzialaniach miejskich, oraz mozliwoscia montazu roznych rodzajow optyki. Strzelajac nabojem 5.56mm z magazynka na 20 nabojow, CAR moze prowadzic jedynie ogien samopowtarzalny. Jego dlugosc moze utrudniac uzycie w ciasnych pomieszczeniach.
+FriendlyName=Accurized CR6720
+ShortName=CR6720
+Manufacturer=Colt
+Caliber=5.56x45mm Mk.262
+CountryOfOrigin=United States
+FireModes=Semi-Automatic
+MagazineSizeString=20
+TotalAmmoString=10 magazines
+RateOfFire=200 RPM
+
+[SilencedColtAccurizedRifle]
+Description=Colt Accurized Rifle zajmuje miejsce posrednie miedzy karabinem szturmowym a klasycznym karabinem snajperskim. CAR laczy precyzyjny ogien na dystansie z duza pojemnoscia amunicji, niezbedna w dzialaniach miejskich, oraz mozliwoscia montazu roznych rodzajow optyki. Strzelajac nabojem 5.56mm z magazynka na 20 nabojow, CAR moze prowadzic jedynie ogien samopowtarzalny. Jego dlugosc moze utrudniac uzycie w ciasnych pomieszczeniach.||Ten konkretny wariant jest wyposazony w zintegrowany tlumik, co jest kluczowe przy dzialaniach wymagajacych skrytego podejscia.
+FriendlyName=Suppressed Accurized CR6720
+ShortName=CR6720
+Caliber=Subsonic 5.56x45mm Mk.262
+
+[SniperRifle]
+Description=Jesli to czytasz, zglos blad informujacy, ze wyswietlany jest opis karabinu snajperskiego.
+FriendlyName=Remington 700 Sniper rifle
+
+[C2Charge]
+Description=Ladunek wybuchowy C2 to potezny i skuteczny sposob forsowania drzwi. Kompaktowy, specjalnie zaprojektowany ladunek niszczy mechanizm zamka i jednoczesnie gwaltownie otwiera drzwi. Halas i fala uderzeniowa dzialaja na osoby po drugiej stronie podobnie jak wybuch granatu hukowego, co moze dac przewage taktyczna w porownaniu z uzyciem strzelby do forsowania. Ladunek C2 jest materialem wybuchowym i moze zranic lub zabic kazdego, kto ma pecha stac bezposrednio za drzwiami.
+FriendlyName=C2 (x3)
+GivenName=C2 Charge
+
+[LessLethalSG]
+Description=Strzelba less lethal to Benelli Nova, strzelba pump-action, ktora zawsze jest ladowana mniej smiertelnymi pociskami beanbag. Najczesciej uzywa sie jej wobec niesubordynowanych podejrzanych lub cywilow. Specjalnie oznaczona strzelba less lethal jest niezbedna, aby wyeliminowac pomylki wynikajace z ladowania amunicji smiertelnej i mniej smiertelnej do tej samej broni. Aby przypomniec operatorom, ze ta bron powinna byc ladowana wylacznie amunicja mniej smiertelna, zostala pomalowana na zielono.||Amunicja beanbag zadaje silne, tepe uderzenie w cel. Powoduje to ekstremalny bol i dezorientacje. Nalezy zachowac odpowiedni dystans miedzy operatorem a celem, aby pocisk zdazyl wyhamowac – w przeciwnym razie moze spowodowac potencjalnie zagraze obrazenia, takie jak zlamania kosci.
+FriendlyName=Less-Lethal Nova
+ShortName=Less-Lethal Nova
+Manufacturer=Benelli
+Caliber=Beanbags
+CountryOfOrigin=Italy
+ProductionStart=Late 1990s
+FireModes=Pump-Action
+TotalAmmoString=50 shells
+RateOfFire=100 RPM
+
+[CSBallLauncher]
+Description=Pistolet Pepper-ball bazuje na technologii pierwotnie opracowanej dla rekreacyjnego paintballu. Sprezone CO2 wyrzuca amunicje z relatywnie wysoka predkoscia. Pepper-ball pozwala funkcjonariuszom szybko uzyc srodka OC przeciw wybranym celom, w latwo kontrolowanych dawkach i na znacznie wieksze odleglosci niz granaty czy standardowy gaz pieprzowy. Dzieki duzemu zasobnikowi na kuleczki bron praktycznie nie wymaga przeladowania w typowych sytuacjach.
+FriendlyName=Pepper-ball Gun
+ShortName=Pepper-ball Gun
+Manufacturer=Tippmann
+Caliber=Pepper-ball
+CountryOfOrigin=United States
+ProductionStart=Unknown
+FireModes=Semi-Automatic
+TotalAmmoString=200 pepper-balls
+RateOfFire=600 RPM
+
+[Wedge]
+Description=Ten specjalnie zaprojektowany klin taktyczny wsuwany jest pod drzwi, a nastepnie aktywowany. Sprezynowy mechanizm wyrzuca skrzydelka klina, blokujac drzwi przed otwarciem w obie strony. Gumowa powloka na spodzie klina zwieksza tarcie, co sprawia, ze bardzo trudno jest sforsowac drzwi sila. Urzadzenie mozna usunac jedynie przy pomocy narzedzia tnącego, co minimalizuje ryzyko, ze podejrzany je usunie.
+FriendlyName=Door Wedge
+GivenName=Door Wedge
+
+[Wedge3pack]
+Description=Ten pakiet trzech klinow zawiera trzykrotnie wiecej klinow, ale zajmuje pieciokrotnie wiecej miejsca i wazy znacznie wiecej.
+FriendlyName=Wedge 3-Pack
+GivenName=Door Wedge
+
+[Optiwand]
+Description=Opti-wand to zaawansowane urzadzenie obserwacyjne pozwalajace funkcjonariuszom rozpoznac sytuacje za rogami i pod zamknietymi drzwiami bez narazania sie na bezposredni ostrzal. Na gorze urzadzenia znajduje sie niewielki ekran LCD, wyswietlajacy obraz z kamery na koncu wysuwanej sondy. Jest to niezastapione narzedzie do zbierania informacji o polozeniu podejrzanych i cywilow przed wykonaniem niebezpiecznych procedur czyszczenia pomieszczen, ktore moglyby narazic zespol na ogien przeciwnika.
+FriendlyName=Optiwand
+
+[PepperSpray]
+Description=Choc zazwyczaj uzywany w kontroli tlumu, reczne pojemniki z gazem pieprzowym moga byc skutecznym narzedziem do obezwladniania niesubordynowanych celow. Substancja aktywna w gazie pieprzowym to Oleoresin Capsicum (OC). OC jest srodkiem powodujacym zapalenie, ktore prowadzi do obrzmienia powiek i ich mimowolnego zamkniecia. Powoduje rowniez uczucie palenia na odslnietej skorze. Ze wzgledu na ograniczony zasieg i niewielki obszar razenia najlepiej stosowac go w polaczeniu z innymi, nieszczegolnie smiertelnymi srodkami zmuszajacymi podejrzanego lub zakladnika do wspolpracy.
+FriendlyName=Pepper Spray
+ShortName=Pepper Spray
+
+[stingGrenade]
+Description=Granat odlamkowo-uderzeniowy typu sting, znany tez jako Stinger, wypelniony jest wieloma malymi gumowymi kulkami. Po detonacji kule zostaja wystrzelone z granatu, zasypujac cele gradobiciem tepych pociskow. Gumowe kulki nie przebijaja skory, ale moga wywolac zawroty glowy, dezorientacje i silny bol od uderzen. ||Choc granat sting uwazany jest za mniej smiertelny, moze spowodowac powazne obrazenia, jesli eksploduje w bardzo bliskiej odleglosci od osoby.
+FriendlyName=Model 9590 Stinger
+ShortName=Stinger
+GivenName=Stinger
+
+[CSGasGrenade]
+Description=Ten granat emituje chlorobenzyliden malonitryl, czyli CS. CS to srodek chemiczny, ktory powoduje lzawienie oczu oraz podraznienie blon sluzowych. Powszechnie znany jako gaz lzawiacy, srodek ten ogranicza zdolnosc widzenia i utrudnia oddychanie. Pod wplywem gazu lzawiacego podejrzani sa w powaznej niekorzystnej sytuacji w starciu z funkcjonariuszami.
+FriendlyName=M7A3 CS Grenade
+ShortName=CS Gas
+GivenName=CS Gas
+
+[FlashbangGrenade]
+Description=Granat hukowo-blyskowy to urzadzenie dywersyjne, ktore oslepia i oglusza osoby przy pomocy glosnej detonacji i bardzo jasnego blysku. Osoby dotkniete jego dzialaniem moga zostac chwilowo oslepione i ogluszone. W tym czasie oddzial SWAT zyskuje znaczna przewage taktyczna nad obezwladnionymi osobami.||Flashbangi sa projektowane tak, aby nie tworzyly odlamkow przy detonacji, ale mimo to moga spowodowac powazne obrazenia, jesli wybuchna zbyt blisko czlowieka. Zaleca sie ostroznosc.
+FriendlyName=M84 Flashbang
+ShortName=Flashbang
+GivenName=Flashbang
+
+[Sting3pack]
+Description=Ten pakiet trzech granatow sting zawiera trzykrotnie wiecej granatow, ale zajmuje pieciokrotnie wiecej miejsca i wazy znacznie wiecej.
+FriendlyName=Stinger (x3)
+ShortName=Stinger (x3)
+GivenName=Stinger
+
+[CS3pack]
+Description=Ten pakiet trzech granatow gazowych zawiera trzykrotnie wiecej granatow CS, ale zajmuje pieciokrotnie wiecej miejsca i wazy znacznie wiecej.
+FriendlyName=CS Gas (x3)
+ShortName=CS Gas (x3)
+GivenName=CS Gas
+
+[Flashbang3pack]
+Description=Ten pakiet trzech granatow hukowo-blyskowych zawiera trzykrotnie wiecej granatow, ale zajmuje pieciokrotnie wiecej miejsca i wazy znacznie wiecej.
+FriendlyName=Flashbang (x3)
+ShortName=Flashbang (x3)
+GivenName=Flashbang
+
+[BreachingSG]
+Description=Remington Model 870 to niezawodna i kompaktowa strzelba pump-action, zdolna powstrzymac nawet najgrozniejszych przestepcow. Jest szeroko wykorzystywana przez patrole policyjne i oddzialy SWAT, ale sluzy tez do strzelectwa sportowego i lowiectwa. Bron ta moze byc modyfikowana poprzez zastosowanie specjalnej amunicji do forsowania drzwi lub pociskow typu beanbag do dzialan mniej smiertelnych.||Ten konkretny wariant jest wyposazony w specjalna dysze do forsowania, co zapewnia, ze kazdy strzal skutecznie wywaza drzwi.
+FriendlyName=M870 Breaching
+ShortName=M870 Breaching
+Manufacturer=Remington
+Caliber=12 Gauge
+CountryOfOrigin=United States
+ProductionStart=1950
+FireModes=Pump-Action
+TotalAmmoString=50 shells
+RateOfFire=150 RPM
+
+[Toolkit]
+Description=Wielofunkcyjne narzedzie pelni wiele rol – moze sluzyc do wytrychowania zamkow, rozbrajania bomb i pulapek oraz usuwania klinow taktycznych. Wszyscy funkcjonariusze wyposazeni sa w zestaw narzedzi.
+FriendlyName=Toolkit
+
+[BadguyColtM1911HG]
+Description=Colt M1911 Handgun
+FriendlyName=M1911
+
+[BadguyG36kMG]
+Description=GB36s Assault Rifle to lekki, pelnowymiarowy karabin szturmowy opracowany w latach 90. dla Bundeswehry. Obecnie jest powszechnie uwazany za niezwykle niezawodny karabin szturmowy ogolnego zastosowania. Strzelajac sredniej mocy nabojem 5.56x45mm, bron ta posiada selektor ognia z trybem dwu-strzalowej serii oraz ogniem samopowtarzalnym i ciaglym.
+FriendlyName=GB36s Assault Rifle
+
+[BadGuySAWMG]
+Description=Ta lekka bron wsparcia jest przeznaczona wylacznie do dzialan wojskowych; jak w przypadku wiekszosci broni, czesc egzemplarzy trafia jednak na czarny rynek. Zostala zaprojektowana do celnego strzelania z biodra lub ramienia, choc najczesciej prowadzi sie z niej ogien z rozlozonego dwunogu. Korzysta z pudelkowego magazynka na 200 nabojow tasmy z ogniwami zrywanymi.
+FriendlyName=5.56mm Light Machine Gun
+
+[BadguyUMP45SMG]
+Description=Ten pistolet maszynowy kalibru .45 jest pod kazdym wzgledem porownywalny z pistoletami maszynowymi kalibru 9mm. W duzej mierze wykonany z wlokna szklanego wzmacnianego polimerami, ten lekki pistolet maszynowy oferuje podobna niezawodnosc co model 9mm, ale z dodatkowa sila naboju .45. Ciezszy pocisk zapewnia lepsza penetracje celow opancerzonych przy uzyciu amunicji FMJ niz jego 9-milimetrowy odpowiednik, mimo nizszej predkosci poczatkowej i wolniejszej szybkostrzelnosci. Ten model jest wyposazony w selektor ognia z trybami samopowtarzalnym oraz ogniem ciaglym.
+FriendlyName=.45 SMG
+
+[VIPColtM1911HG]
+Description=Pistolet Colt M1911 pozostaje podstawa uzbrojenia sil porzadkowych od dziesiecioleci. Ta bron kalibru .45 zadaje bardzo silne obrazenia i jest najczesciej wybierana jako bron zapasowa przez funkcjonariuszy SWAT. Ten pistolet samopowtarzalny ma magazynek na 8 nabojow i moze korzystac z amunicji z pelnym plaszczem oraz z pociskow typu jacketed hollow point.
+FriendlyName=VIP Colt M1911 Handgun
+Manufacturer=Colt
+Caliber=.45
+CountryOfOrigin=United States
+ProductionStart=1911
+FireModes=Semi-Automatic
+MagazineSizeString=8
+TotalAmmoString=10 magazines
+RateOfFire=20-100 RPM
+
+[Cuffs]
+Description=Kajdanki zaciskowe z tworzywa maja wiele zalet w porownaniu z tradycyjnymi metalowymi kajdankami. Jednostki taktyczne preferuja je ze wzgledu na niska mase i elastyczna konstrukcje.
+FriendlyName=Zip-cuffs
+
+[Detonator]
+Description=Domyslny opis dla Detonator
+FriendlyName=The Detonator
+
+[Lightstick]
+Description=Swietlne paleczki sluza do wyznaczania drog przemarszu przez budynki oraz oznaczania pomieszczen jako sprawdzonych i zabezpieczonych.
+FriendlyName=Lightstick
+ShortName=Lightstick
+GivenName=Lightstick
+
+[IngramHG]
+Description=Ingram Handgun
+FriendlyName=MAC-10 Machine Pistol
+
+[USP40HG]
+Description=SLP40 Handgun
+FriendlyName=SLP 40
+
+[ScorpionHG]
+Description=Skorpion Machine Pistol
+FriendlyName=Skorpion Machine Pistol
+
+[BerettaM9HG]
+Description=Beretta N9 Handgun
+FriendlyName=Beretta N9
+
+[SawedOffSG]
+Description=Sawed-off Shotgun
+FriendlyName=Sawed-off Shotgun
+
+[Pump2RifleGripSG]
+Description=Rifle Grip Pump Shotgun
+FriendlyName=Rifle Grip Pump Shotgun
+
+[Pump1SG]
+Description=Pistol Grip Pump Shotgun
+FriendlyName=Pistol Grip Pump Shotgun
+
+[BadguyM4Super90SG]
+Description=Benelli M4 Super90
+FriendlyName=Benelli M4 Super90
+
+[HK53SMG]
+Description=Beretta M9 Handgun
+FriendlyName=GB53
+
+[BadguySilencedMP5SMG]
+Description=Domyslny opis dla SilencedMP5SMG
+FriendlyName=Silenced 9mm Sub-Machine Gun
+
+[BadguyMP5SMG]
+Description=Domyslny opis dla MP5SMG
+FriendlyName=9mm Sub-Machine Gun
+
+[M4MG]
+Description=Colt M4 Carbine
+FriendlyName=Colt M4 Carbine
+
+[AK74suMG]
+Description=Domyslny opis dla M4A1MG
+FriendlyName=AK74su
+
+[AK74MG]
+Description=Domyslny opis dla M4A1MG
+FriendlyName=AK74
