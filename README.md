@@ -4,15 +4,17 @@
 0.3 beta – aktualna wersja
 
 ## Opis
-Jest to moje amatorskie spolszczenie do gry SWAT4 Gold Edition z modem Elite Forces 7.2.
-Nie jest ono dokończone, więc niektóre teksty w grze będą nadal wyświetlać się po angielsku. Jednak wszystkie kluczowe informacje takie jak
-- komendy w trakcie misji
-- treści odprawy
+Jest to amatorskie spolszczenie do gry SWAT4 Gold Edition z modem Elite Forces 7.2.
+Nie jest ono dokończone, więc niektóre teksty w grze będą nadal wyświetlać się po angielsku. Jednak wszystkie kluczowe informacje takie jak:
+- komendy w trakcie misji,
+- treści odprawy,
+
 są spolszczone. Dzięki czemu powinno się znacznie przyjemniej grać.
 
 ## Wersja gry
 - GOG: SWAT4 Gold Edition
 - GOG: Elite Forces 7.2 Mod (zainstalowany bezpośrednio z aplikacji GOG)
+
 Na innych wersjach też powinno działać tylko musicie sami ustalić gdzie wkleić pliki bo nie testowałem innych wersji.
 Ewentualne nowsze wersje moda Elite Forces również nie powinny stanowić problemu dla spolszczenia dopóki pliki nie będą się znacznie różnić.
 
@@ -22,8 +24,10 @@ Nowa zawartość obejmuje w szczególności nowe komendy dla zespołu SWAT, doda
 
 ## Potencjalne problemy
 - Czcionka
+
 Korzystałem z dotychczasowej czcionki pl, zawartej w spolczeniu, na którym bazowałem. Niestety dla Elite Forces 7.2 nie jest ona idealnie dopasowana i np. w menu gry, czy w niektórych elementach następuje przesunięcie niektórych liter. Nie jest to jednak nagminne i nie powinno Wam psuć rozgrywki. A ja nie znam sie na edytowaniu plików czcionek, kodem równiej na szybko nie byłem w stanie tego poprawić więc póki co jest jak jest :P
 - Tryby inne niż kariera
+
 Spolszczenie testowałem póki co tylko w trybie kariery. Do treningu, czy multiplayera nawet nie zaglądałem, więc może brakować w nich więcej tłumaczeń tekstów, albo mogą znaleźć się w nich jakieś błędy.
 
 ## Instalacja
@@ -43,8 +47,3 @@ Do działania wymagane jest posiadanie oryginalnej gry SWAT4 Gold Edition
 oraz moda Elite Forces 7.2.
 
 Wszystkie prawa do gry należą do ich właścicieli.
-
-
-
-Miłej zabawy!
-Jeśli ktoś chce coś ulepszyć to śmiało.
