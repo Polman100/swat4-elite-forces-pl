@@ -25,7 +25,7 @@ Nowa zawartość obejmuje w szczególności nowe komendy dla zespołu SWAT, doda
 ## Potencjalne problemy
 - Czcionka
 
-Korzystałem z dotychczasowej czcionki pl, zawartej w spolczeniu, na którym bazowałem. Niestety dla Elite Forces 7.2 nie jest ona idealnie dopasowana i np. w menu gry, czy w niektórych elementach następuje przesunięcie niektórych liter. Nie jest to jednak nagminne i nie powinno Wam psuć rozgrywki. A ja nie znam sie na edytowaniu plików czcionek, kodem równiej na szybko nie byłem w stanie tego poprawić więc póki co jest jak jest :P
+Korzystałem z dotychczasowej czcionki pl, zawartej w spolczeniu, na którym bazowałem. Niestety dla Elite Forces 7.2 nie jest ona idealnie dopasowana i np. w menu gry, czy w niektórych elementach następuje przesunięcie niektórych liter. Nie jest to jednak nagminne i nie powinno Wam psuć rozgrywki. Ja, z kolei, nie znam sie na edytowaniu plików czcionek. Kodem również, na szybko, nie byłem w stanie tego poprawić więc póki co jest jak jest :P
 - Tryby inne niż kariera
 
 Spolszczenie testowałem póki co tylko w trybie kariery. Do treningu, czy multiplayera nawet nie zaglądałem, więc może brakować w nich więcej tłumaczeń tekstów, albo mogą znaleźć się w nich jakieś błędy.
